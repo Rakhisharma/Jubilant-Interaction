@@ -1,7 +1,7 @@
 <style> 
 html {
-  background: url('purty_wood.png');
-  font-size: 10pt;
+  background: url('purty.png');
+  /*font-size: 10pt;*/
 }
     /* Remove the navbar's default margin-bottom and rounded borders */ 
     .navbar {
@@ -18,7 +18,7 @@ html {
     /* Set gray background color and 100% height */
     .sidenav {
       padding-top: 80px;
-      background-color: #f1f1f1;
+      b/*ackground-color: #f1f1f1;*/
       height: 100%;
     }
     
