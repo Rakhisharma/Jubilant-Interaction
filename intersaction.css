@@ -1,8 +1,4 @@
 <style> 
-html {
-  background: url('purty.png');
-  /*font-size: 10pt;*/
-}
     /* Remove the navbar's default margin-bottom and rounded borders */ 
     .navbar {
       margin-bottom: 0;
@@ -18,7 +14,7 @@ html {
     /* Set gray background color and 100% height */
     .sidenav {
       padding-top: 80px;
-      b/*ackground-color: #f1f1f1;*/
+      b
       height: 100%;
     }
     
@@ -26,7 +22,7 @@ html {
     footer {
       background-color: #555;
       color: white;
-      padding: 55px;
+      padding: 5px;
 
     }
     
@@ -37,5 +33,5 @@ html {
         padding: 15px;
       }
       .row.content {height:auto;} 
-    }
+    
   </style>
